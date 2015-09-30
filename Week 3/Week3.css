@@ -1,0 +1,38 @@
+div#ab-onion-dip{
+	
+	
+	
+}
+
+
+body {
+	font-family: Helvetica;
+	margin: 0;
+	background: #ccc;
+}
+
+
+div.container{
+	margin: 0 auto 0 auto;
+	width: 700px;
+	padding-top: 200px;
+	background: #fff url(alton-brown-onion-dip.jpg) no-repeat top center;
+	border-top: 10px solid #424242;
+	
+}
+
+.recipe{
+	padding: 20px 40px;	
+	background: #fff;
+	opacity: 0%;
+}
+
+.recipe h2 {
+	font-family: "Helvetica";
+	color: red;
+	
+}
+
+
+
+
