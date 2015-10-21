@@ -1,0 +1,17 @@
+div.intro{
+	color: red;
+	width: 33%;
+	padding-left: 33%;
+}
+
+div.middle{
+	color: blue;
+	width: 66%;
+}
+
+div.end{
+	color: green;
+	width: 50%;
+	padding-left: 33%;
+
+}

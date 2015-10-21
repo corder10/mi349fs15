@@ -1,0 +1,22 @@
+p{
+	float: left;
+}
+
+div.intro{
+	color: red;
+	width: 33%;
+	padding-left: 0%;
+}
+
+div.middle{
+	color: blue;
+	padding-left: 33%;
+	width: 33%;
+	
+}
+
+div.end{
+	color: green;
+	padding-left: 66%;
+	width: 34%;
+}
