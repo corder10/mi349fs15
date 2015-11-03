@@ -1,0 +1,29 @@
+
+.column{
+	margin: 0 auto;
+	width: 25%;
+	background: #e3e3e3;
+	padding: 1cm;
+	float: left;
+	
+}
+
+@media (max-width:799px),(max-width:400px) {
+	.column{
+		width: 25%;
+	}
+}
+
+@media (max-width: 1199px),(max-width: 800px){
+	.column{
+		width: 35%;
+	}
+	
+}
+
+@media (min-width: 1200px) {
+	.column{
+		width: 100%;
+	}
+}
+
